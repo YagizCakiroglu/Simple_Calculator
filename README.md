@@ -1,7 +1,9 @@
-# Simple_Calculator
+# Simple Calculator
 
 Basit Hesap Makinesi
 Bu proje, basit bir hesap makinesi uygulamasının Python ve Tkinter kullanılarak oluşturulmuş bir örneğini içermektedir. Hesap makinesi, kullanıcının sayılarla işlem yapmasını ve sonucunu ekranda görmesini sağlar.
+
+![Calculator](https://github.com/YagizCakiroglu/Simple_Calculator/blob/main/images/calculator.jpg)
 
 Özellikler:
 Toplama, çıkarma, çarpma ve bölme gibi temel matematiksel işlemleri gerçekleştirir.
